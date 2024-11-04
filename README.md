@@ -3,8 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardburlacu&theme=radical&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical)]
-
-
+🔭 I’m currently working on Generative AI with applications in NLP and 3D Computer Vision. I am also interested in Federated and Reinforcemet learning.
+💬 Personal website: https://eduardburlacu.github.io/
 <!--
 **eduardburlacu/eduardburlacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
