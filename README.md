@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Generative AI with applications in NLP and 3D Computer Vision. I am also interested in Federated and Reinforcemet learning.
 
-💬 Personal website: https://eduardburlacu.github.io/
+💬 Personal website: https://eduardburlacu.github.io/ (UNDER DEVELOPEMENT)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical)]
 
