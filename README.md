@@ -1,4 +1,3 @@
-```markdown
 ### Hi there 👋
 
 🔭 I’m currently working on Generative AI with applications in NLP and 3D Computer Vision. I am also interested in Federated AI, Distributed computing, and RL.
@@ -21,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
