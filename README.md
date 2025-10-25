@@ -1,14 +1,6 @@
 ### Hi there 🧑‍💻
 
-🔭 I’m a ML Engineer interested in GenAI applied to NLP and Computer Vision. 
-
-👀 Other interests include:
-- Recommender Systems
-- Representation Learning
-- Federated AI
-- Distributed computing
-
-💬 Personal website: https://eduardburlacu.github.io/
+🔭 I’m a ML Engineer interested in GenAI applied to NLP and Computer Vision. Other interests include Recommender Systems, Representation Learning, Federated AI, Distributed computing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook,Makefile,Cmake,Fortran,Objective-C,CSS,SCSS,Shell,Perl,MATLAB,C)]
 
