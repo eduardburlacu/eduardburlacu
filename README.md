@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Generative AI with applications in NLP and 3D Computer Vision. I am also interested in Federated AI, Distributed computing, and RL.
+🔭 I’m a ML Engineer interested in GenAI applied to NLP and Computer Vision. 
+
+Other interests include:
+- Recommender Systems
+- Representation Learning
+- Federated AI
+- Distributed computing
 
 💬 Personal website: https://eduardburlacu.github.io/
 
