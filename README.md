@@ -1,8 +1,8 @@
 ### Hi there 🧑‍💻
 
-🔭 I’m a ML Engineer interested in GenAI applied to NLP and Computer Vision. Other interests include Recommender Systems, Representation Learning, Federated AI, Distributed computing
+🔭 I’m a ML Engineer interested in GenAI applied to NLP and Computer Vision. Other interests include Recommender Systems, Representation Learning, Federated AI, and Distributed computing.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook,Makefile,Cmake,Fortran,Objective-C,CSS,SCSS,Shell,Perl,MATLAB,C)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook,Makefile,Cmake,Fortran,Objective-C,CSS,SCSS,Shell,Perl,MATLAB,C)
 
 <!--
 **eduardburlacu/eduardburlacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
