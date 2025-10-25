@@ -4,7 +4,7 @@
 
 💬 Personal website: https://eduardburlacu.github.io/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook,Makefile,MATLAB,C)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook,Makefile,Cmake,Fortran,Objective-C,CSS,SCSS,Shell,Perl,MATLAB,C)]
 
 <!--
 **eduardburlacu/eduardburlacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
