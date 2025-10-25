@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 🧑‍💻
 
 🔭 I’m a ML Engineer interested in GenAI applied to NLP and Computer Vision. 
 
-Other interests include:
+👀 Other interests include:
 - Recommender Systems
 - Representation Learning
 - Federated AI
