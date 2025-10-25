@@ -1,10 +1,11 @@
+```markdown
 ### Hi there 👋
 
 🔭 I’m currently working on Generative AI with applications in NLP and 3D Computer Vision. I am also interested in Federated AI, Distributed computing, and RL.
 
 💬 Personal website: https://eduardburlacu.github.io/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardburlacu&theme=radical&hide=Jupyter%20Notebook,Makefile,MATLAB,C)]
 
 <!--
 **eduardburlacu/eduardburlacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
